@@ -1,4 +1,4 @@
-# python-wanju2,增加网页显示
+# python,增加网页显示
 
 # 免责声明:
 
